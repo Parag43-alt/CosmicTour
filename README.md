@@ -32,6 +32,15 @@ Get ready for launch! Follow these steps to set up CosmicTour on your local mach
    
     https://github.com/Parag43-alt/CosmicTour
     ```
+ 2. **Local host**
+
+    ```bash
+   
+    file:///C:/Users/Palak/Downloads/login%20(2).html
+    ```
+
+
+
 ---
 
 ## 🚀 Usage Details
