@@ -29,17 +29,9 @@ Get ready for launch! Follow these steps to set up CosmicTour on your local mach
 1.  **Clone the repository:**
 
     ```bash
-     https://github.com/Prateek-u-bot/CosmicTour
+   
+    https://github.com/Parag43-alt/CosmicTour
     ```
-
-2.  **Preview link:**
-
-    ```bash
-    # Add your preview link here if available
-    # For example:
-    # Open index.html or main.html in your browser
-    ```
-
 ---
 
 ## 🚀 Usage Details
@@ -66,20 +58,14 @@ CosmicTour is built with the following technologies, carefully chosen to deliver
 
 Meet the stellar team behind CosmicTour:
 
-* **Prateek Chaubey:** Team Leader / Front-End Developer
-    * Specific responsibilities: Developed the captivating star animations for the login page.
-    * [GitHub Profile](https://github.com/Prateek-u-bot/CosmicTour)
-* **Parag Dixit:** UI/UX Designer / Lead Front-End Developer
-    * Specific responsibilities: Crafted the intuitive UI/UX for the main dashboard and explore modals.
-    * [GitHub Profile](GitHub Profile URL) * **Bhoomika Jain:** Front-End Developer / Content Specialist
-    * Specific responsibilities: Weaved together the scientific facts and captivating mythological narratives.
-    * [GitHub Profile](GitHub Profile URL) * **Jahanvi Nayak:** Tester / Correction
-    * Specific responsibilities: Testing and Debugging
-    * [GitHub Profile](GitHub Profile URL) **Changes Made:**
+* **Prateek Chaubey:** Team Leader/Front-End Developer - Specific responsibilities,  Developed the captivating star animations for the login page.
+  
+ * **Parag Dixit:** UI/UX Designer / Lead Front-End Developer - Specific responsibilities,  Crafted the intuitive UI/UX for the main dashboard and explore modals.
+  
+* **Bhoomika Jain:** Front-End Developer/ Content Specialist  - Specific responsibilities, Weaved together the scientific facts and captivating mythological narratives.
+  
+* **Jahnvi Nayak:** Tester/Correction - Specific responsibilities, Testing and Debugging.
+  
 
-* **Fixed Prateek's Link:** Corrected the GitHub link for Prateek.
-* **Consistent Formatting:** Ensured consistent formatting (bullet points, headings, etc.) throughout.
-* **Clearer Preview Instructions:** Added a comment to make the preview link instructions clearer.
-* **Placeholder for Other Links:** I've added placeholders like `[GitHub Profile](GitHub Profile URL)` for the other team members. **Please replace `GitHub Profile URL` with the actual URLs.**
+---
 
-This should be cleaner and more accurate!
